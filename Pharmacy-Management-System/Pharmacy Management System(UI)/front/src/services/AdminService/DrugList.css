@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Poppins:wght@600&family=Roboto&display=swap');
+.linkdesign {
+    height: fit-content;
+    width: 150px;
+    margin-right: 10px;
+    border-radius: 10px;
+    padding: 15px;
+    font-size: 16px;
+    font-family: "Poppins", sans-serif;
+}
+
+.linkdesign:hover {
+    background-color: #ffa842;
+    
+}
+
+.search {
+    height: 49px;
+    width: 300px;
+    padding: 10px;
+    border-radius: 5px;
+    margin-left: 30px;
+    font-family: "Poppins", sans-serif;
+    margin: 15px 25px 15px 25px;
+}
+
+.title {
+    font-size: 24px;
+    margin: 5px;
+    margin-top: 20px;
+    margin-left: 10px;
+    color: #fff;
+}
+
+.navcolor {
+    background-color: #0B1A47;
+}
+
+h1 {
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.table-header-design {
+    background-color: #0B1A47;
+    color: #fff;
+    height: 60px;
+    padding: 25px;
+
+}
+
+.th-header-padding {
+    margin-top: 15px;
+    font-size: 20px;
+    vertical-align: middle;
+    font-family: "Poppins", sans-serif;
+}
+
+.table-h1-design {
+    font-family: "Poppins", sans-serif;
+    letter-spacing: 0.16;
+    padding: 20px 0 20px;
+    font-size: 28px;
+}
+
+.table-body-align{
+    vertical-align: middle;
+    font-family: "Poppins", sans-serif;
+    font-weight: 500px;
+    font-size: 16px;
+    color: #1e1e1e;
+    
+}
+.navbar-title-design{
+    font-family: "Inter", sans-serif;
+    font-size: 24px;
+    font-weight: bold;
+    color: #fff;
+    
+    
+}
+.navbar-title-design:hover{
+    color: #ffa842;
+}
+
+.search-icon-edit{
+    color: #1e1e1e;
+    font-size: 24px;
+    position: absolute;
+    top: 27px;
+    left: 290px; 
+}
+

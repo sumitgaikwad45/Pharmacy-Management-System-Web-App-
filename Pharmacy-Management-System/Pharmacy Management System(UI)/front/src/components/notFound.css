@@ -1,0 +1,55 @@
+#not-found-bg {
+    background-image: url('../image/404.gif');
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+
+}
+
+.xyz {
+    text-align: center;
+    margin-top: 35%;
+
+}
+
+.not-found-header {
+    color: #0B1A47;
+    font-family: "Poppins", sans-serif;
+    font-size: 50px;
+    font-weight: bold;
+    letter-spacing: -1px;
+    line-height: 1;
+    text-align: center;
+    margin-top: 20px;
+    text-transform: uppercase;
+}
+
+.not-found-link {
+    color: #fff;
+    background-color: #0B1A47;
+    margin-right: 16px;
+    padding: 10px 14px;
+    font-size: 16px;
+    margin-left: 16px;
+    text-decoration: none;
+}
+
+.not-found-link:hover {
+    background-color: #FFA842;
+}
+
+#unauthorized-bg {
+
+    background-image: url('../image/unauthorize.png');
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+
+
+}

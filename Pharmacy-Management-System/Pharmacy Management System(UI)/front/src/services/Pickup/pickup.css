@@ -1,0 +1,61 @@
+.linkdesign{
+    height: fit-content;
+    width: 150px;
+    margin-right: 10px;
+    border-radius: 10px;
+    padding: 15px;
+    font-size: 16px;
+    color: #fff;
+
+}
+.linkdesign:hover{
+    background-color: #ffa842;
+    color: #fff;
+}
+.search{
+    height: 49px;
+    width: 300px;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+.title{
+    font-size: 24px;
+    margin: 5px;
+    margin-top: 20px;
+    margin-left: 10px;
+    color: #fff;
+}
+.navcolor{
+    background-color: #0B1A47;
+}
+
+h1{
+    text-align: center;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.btn {
+    /* background-color: #0B1A47; */
+    border: none;
+}
+
+.logoutH{
+    height: fit-content;
+    width: 150px;
+    margin-right: 10px;
+    border-radius: 10px;
+    padding: 15px;
+    font-size: 16px;
+    color: #fff;
+    font-family: "Poppins", sans-serif;
+
+}
+.logoutH:hover{
+    background-color: #D32F2F;
+    color: #fff;
+}
+
+

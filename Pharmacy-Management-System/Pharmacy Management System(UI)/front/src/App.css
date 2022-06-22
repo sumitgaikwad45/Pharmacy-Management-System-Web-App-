@@ -1,0 +1,137 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+
+.footer{
+  position: absolute;
+  bottom: 0;
+  width:100X;
+  height: 50px;
+  background-color: Oblack;
+  text-align: center;
+  color: rgb(120, 110, 110);
+ margin-bottom: 0%;
+  margin-left: 40% ;
+  }
+  
+  @media screen and (max-width: 400px) {
+    #features {
+      padding: 20px;
+      width: 111%;
+    }
+    #about,
+    #services,
+    #testimonials,
+    #team,
+    #contact,
+    #footer {
+      width: 111%;
+    }
+  
+    #portfolio {
+      width: 110%;
+    }
+  }
+  #menu-outer {
+    height: 84px;
+    
+  }
+  
+  .table {
+    display: table;   /* Allow the centering to work */
+    margin: 0 auto;
+  }
+  
+  ul#horizontal-list {
+    min-width: 696px;
+    list-style: none;
+   text-decoration: none;
+    font-family: 'Lato', sans-serif;
+    text-transform: uppercase;
+    color: #555;
+    font-size: 15px;
+    font-weight: 400;
+    padding: 8px 2px;
+    border-radius: 0;
+    margin: 9px 20px 0 20px;
+    }
+    ul#horizontal-list li {
+      display: inline;
+    }
+
+.page-scroll {
+  text-decoration: none;
+  margin-right: 10px;
+  font-size: 30px;
+  
+}
+
+.page-scroll:hover {
+  text-decoration: underline;
+  transform: scale(1.1);
+}
+
+.btn-action-update{
+  color: #fff;
+  background-color: #0B1A47;
+  margin-right: 16px;
+  padding: 10px 14px;
+  font-size: 16px;
+  margin-left: 16px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 400px;
+
+}
+.btn-action-delete{
+  color: #1e1e1e;
+  background-color: #FFBD71;
+  padding: 10px 14px;
+  font-size: 16px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 400px;
+}
+
+.btn-action-delete:hover{
+  background-color: #ffa842;
+}
+
+.btn-action-update:hover{
+  background-color: #3b4bb6;
+  color: #fff;
+}
